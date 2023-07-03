@@ -21,3 +21,4 @@ Welcome to your first programming exercise in the bootcamp!
 3. Open in Visual Studio Code
 4. Open the terminal (`Ctrl + double tab /`)
 5. Run `node main.js`
+6. Complete the exercises in `Exercise.md`
